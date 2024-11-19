@@ -1,0 +1,9 @@
+*{
+    background-color: red;
+}
+.name{
+    height: 500px;
+    width: 500px;
+    border: solid black;
+    background-color: blue;
+}
